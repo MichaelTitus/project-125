@@ -1,0 +1,32 @@
+.heading{
+    font-size:20px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px red;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+
+canvas{
+    border:5px solid blue;
+    border-radius:20px;
+    box-shadow:5px 5px 5px rgb(0, 217, 255);
+}
+#copyright_footer {
+    position: fixed;
+    bottom: 0;
+    color: white;
+    background-color: lightsteelblue;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+
+#name{
+    border: ridge yellow;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px tomato;
+    color: thistle;
+}
